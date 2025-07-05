@@ -1,0 +1,7 @@
+name = "amnx"
+compatibility_date = "2025-07-05"
+
+[build]
+command = ""
+upload_format = "directory"
+directory = "./"
